@@ -8,6 +8,7 @@ export default function Hero() {
                 <div className="grid min-h-[350px] overflow-hidden rounded-2xl bg-gradient-to-r from-green-50 to-green-100 lg:grid-cols-2">
 
                     {/* LEFT */}
+                    {/* ajker bajar dor here */}
                     <div className="flex flex-col justify-center px-6 py-10 sm:px-10 lg:px-12">
 
                         {/* Eyebrow */}
