@@ -9,7 +9,7 @@ import ProductAuthGuard from "../../components/ProductAuthGuard";
 
 const API_URL = "/api/products";
 
-// পণ্যের নিজস্ব emoji
+// পণ্যের নিজস্ব emoji dewa hoyece akane
 function getProductIcon(product) {
     const name = String(product?.nameBn || product?.name || "").trim();
 
