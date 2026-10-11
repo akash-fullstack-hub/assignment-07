@@ -10,6 +10,8 @@ export default function ProductAuthGuard({ children }) {
     const router = useRouter();
     const pathname = usePathname();
 
+    // useEffect 
+
     useEffect(() => {
         if (!isPending && !session?.user) {
             const callbackURL = encodeURIComponent(pathname);
