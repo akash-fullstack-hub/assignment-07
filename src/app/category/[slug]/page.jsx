@@ -113,6 +113,9 @@ function CategoryContent() {
         );
     }
 
+
+    // catagory work
+
     if (!category) {
         return (
             <main className="flex min-h-[60vh] items-center justify-center bg-gray-50 px-4">
