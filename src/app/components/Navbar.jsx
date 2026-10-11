@@ -7,6 +7,8 @@ import { usePathname, useRouter } from "next/navigation";
 import { useEffect, useState } from "react";
 import { signOut, useSession } from "@/lib/auth-client";
 
+// items here
+
 const categories = [
     { name: "চাল", icon: "🍚", slug: "chal" },
     { name: "ডাল", icon: "🌾", slug: "dal" },
