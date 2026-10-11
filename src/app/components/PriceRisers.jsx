@@ -7,7 +7,7 @@ import { getProductSlug } from "./priceUtils";
 
 const API_URL = "/api/products";
 
-// Category অনুযায়ী Emoji
+// Category অনুযায়ী Emoji dewa
 const CATEGORY_ICONS = {
     chal: "🍚",
     dal: "🥜",
@@ -19,7 +19,7 @@ const CATEGORY_ICONS = {
     mosla: "🌶️",
 };
 
-// Product অনুযায়ী Emoji
+// Product অনুযায়ী Emoji dewa
 const PRODUCT_ICONS = {
     peyaj: "🧅",
     begun: "🍆",
