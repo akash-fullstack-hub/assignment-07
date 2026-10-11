@@ -10,7 +10,7 @@ import {
 
 const API_URL = "/api/products";
 
-// Product অনুযায়ী Emoji
+// Product অনুযায়ী Emoji dewa 
 const PRODUCT_ICONS = {
     peyaj: "🧅",
     begun: "🍆",
