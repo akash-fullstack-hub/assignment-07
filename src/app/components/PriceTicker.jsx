@@ -1,6 +1,9 @@
 
 "use client";
 
+//products prices
+
+
 const prices = [
     {
         name: "চাল (মিনিকেট)",
